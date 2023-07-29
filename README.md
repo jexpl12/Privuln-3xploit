@@ -2,7 +2,7 @@
 
 GREATZ ALL MEMBER COD-3X & 3XP.OFC
 
-#Install
+# Install
 
 ```
 wget https://raw.githubusercontent.com/jexpl12/Privuln-3xploit.id/main/exploit.sh
