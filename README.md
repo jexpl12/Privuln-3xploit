@@ -13,4 +13,4 @@ chmod +x Privuln-3xploit.id
 <p>
 <h3>©3XPLOIT.ID 2023</h3>
 <p>
-<h4>Ketauan nge recode SC ini kami nyata in war ke yg recode! 
+[3XPLOIT.ID](https://github.com/3XPLOITID)
