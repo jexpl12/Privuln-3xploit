@@ -5,8 +5,9 @@ GREATZ ALL MEMBER COD-3X & 3XP.OFC
 # Install
 
 ```
-wget https://raw.githubusercontent.com/jexpl12/Privuln-3xploit.id/main/exploit.sh
+git clone https://github.com/jexpl12/Privuln-3xploit.id/
 chmod +x Privuln-3xploit.id
+cd exploit.sh
 ./exploit.sh
 ```
 or you can use any Tools like : 
