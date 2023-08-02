@@ -12,6 +12,7 @@ chmod +x Privuln-3xploit.id
 or you can use any Tools like : 
 
 ```
+cd ..
 ./privuln.sh
 ```
 depending on the vulnerability and file path.
