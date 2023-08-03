@@ -7,13 +7,11 @@ GREATZ ALL MEMBER COD-3X & 3XP.OFC
 ```
 git clone https://github.com/jexpl12/Privuln-3xploit.id/
 chmod +x Privuln-3xploit.id
-cd exploit.sh
 ./exploit.sh
 ```
 or you can use any Tools like : 
 
 ```
-cd ..
 ./privuln.sh
 ```
 depending on the vulnerability and file path.
