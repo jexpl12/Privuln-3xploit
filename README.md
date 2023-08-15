@@ -1,4 +1,4 @@
-# Pivuln 3XPLOIT.ID For Arbitrary File Upload
+# Pivuln 3XPLOIT For Arbitrary File Upload
 
 GREATZ ALL MEMBER COD-3X & 3XP.OFC
 
